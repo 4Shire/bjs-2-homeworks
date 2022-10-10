@@ -1,6 +1,6 @@
 function Student(name, gender, age) {
   this.name = name;
-  this. gender = gender;
+  this.gender = gender;
   this.age = age;
 }
 
